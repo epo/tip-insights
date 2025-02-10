@@ -1,2 +1,2 @@
 # TIP INSIGHTS
-This repository contains the notebooks published in the [Patent Knowledge News](https://www.epo.org/en/searching-for-patents/helpful-resources/patent-knowledge-news) as part of the series **TIP INSIGHTS**. These notebooks are intended to showcase the capabilities of TIP as a tool for data analysis. The note
+This repository contains the notebooks published in the [Patent Knowledge News](https://www.epo.org/en/searching-for-patents/helpful-resources/patent-knowledge-news) as part of the series **TIP INSIGHTS**. These notebooks are intended to showcase the capabilities of TIP as a tool for data analysis.
